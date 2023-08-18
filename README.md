@@ -6,4 +6,6 @@ First, this program is designed for use with the operational board game SFB PQ-1
 The code which can automate the actual on-map movement may be uploaded in a later installment.
 And second, the codenames used in the program are stored as comma-separated entries in a file in src/media. If you wish to substitute them with names of your own, you can freely do so. Simply replace the text file with another one of the same name.
 
+To use, simply download the zip and run SGCipher.exe.
+
 Enjoy!
