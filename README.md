@@ -9,3 +9,5 @@ And second, the codenames used in the program are stored as comma-separated entr
 To use, simply download the zip and run SGCipher.exe.
 
 Enjoy!
+
+NOTE: Written for use with JDK 17.0.4.1
